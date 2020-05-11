@@ -2,10 +2,10 @@
 
 Following are the features of this Bank management system:
 
-New Account:
-1. Deposit Amount
-2. Withdraw amount
-3. Balance Inquiry
-4. Account Holders List
-5. Close and Account
-6. Modify an Account
+1. New Account:
+2. Deposit Amount
+3. Withdraw amount
+4. Balance Inquiry
+5. Account Holders List
+6. Close and Account
+7. Modify an Account
