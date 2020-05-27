@@ -325,7 +325,7 @@ void deposit_withdraw(int n, int option)
     cout<<"\n\n Record Not Found ";
 }
 //***************************************************************
-//      INTRODUCTION FUNCTION
+//                  INTRODUCTION FUNCTION
 //****************************************************************
 void intro()
 {
