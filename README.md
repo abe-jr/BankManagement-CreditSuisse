@@ -1,6 +1,6 @@
 # Bank Management CreditSuisse
 
-Following are the features of this Bank management system:
+Following are the features o this Bank management system:
 
 1. New Account:
 2. Deposit Amount
